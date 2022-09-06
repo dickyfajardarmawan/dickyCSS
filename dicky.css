@@ -1,3 +1,10 @@
+/* BUTTON */
+.d-btn {
+    padding: 5px 10px;
+    border: 0px;
+    cursor: pointer;
+}
+
 /* BACKGROUND WARNA */
 
 .bg-white { background-color: rgb(255, 255, 255); }
